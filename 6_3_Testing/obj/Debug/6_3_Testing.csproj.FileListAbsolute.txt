@@ -1,0 +1,13 @@
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\obj\Debug\6_3_Testing.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\6_3_Testing.exe.config
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\6_3_Testing.exe
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\6_3_Testing.pdb
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\EntityFramework.dll
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\EntityFramework.xml
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\obj\Debug\6_3_Testing.csproj.CopyComplete
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\obj\Debug\6_3_Testing.exe
+C:\Users\TNykuka\source\repos\6_3_Testing\6_3_Testing\obj\Debug\6_3_Testing.pdb
